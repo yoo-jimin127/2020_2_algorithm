@@ -10,5 +10,5 @@
 - [모든 쌍 최단경로 알고리즘 구현](https://github.com/yoo-jimin127/2020_2_algorithm/tree/master/assignment8)
 - [Prim, Kruskal 알고리즘을 이용하여 MST 구하기](https://github.com/yoo-jimin127/2020_2_algorithm/tree/master/assignment9)
 - [백트래킹 알고리즘을 사용한 Sum-of-Subset 문제의 해결과 Monte Carlo 알고리즘을 사용한 백트래킹 알고리즘의 효율성 추정](https://github.com/yoo-jimin127/2020_2_algorithm/tree/master/assignment10)
-- DFS, BFS, Best-First를 사용한 Knapsack 문제 해결
+- [DFS, BFS, Best-First를 사용한 Knapsack 문제 해결](https://github.com/yoo-jimin127/2020_2_algorithm/tree/master/assignment11)
  
